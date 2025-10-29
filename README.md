@@ -1,3 +1,4 @@
+[options-trading-tracker (2).tsx](https://github.com/user-attachments/files/23200518/options-trading-tracker.2.tsx)
 import React, { useState, useEffect } from 'react';
 import { Plus, Trash2, Save, TrendingUp, DollarSign, Target, PieChart } from 'lucide-react';
 
